@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<h1> Fake news </h1>
+<div class="myDiv">
+  <h2>This is a website about fake news</h2>
+  <p>This website allows you to learn what is fake news and can educate you more about fake news.</p>
+</div>
+</body>
+
+<nav>
+<ul>
+	<li><a href="#">Home</li> 
+	<li><a href="#">Abouts</li>
+	<li><a href="#">Latest</li>
+	<li><a href="#">Videos</li>
+	<li><a href="#">Links</li>
+
+
+</ul>
+</nav> <!--end of my navigation-->
+
+<div id="hero">
+
+
+<img src=https://via.placeholder.com/728x90.png? alt="Hero Image" />
+
+</div> <!--end of hero image week 9 task-->
+
+
+</html>
